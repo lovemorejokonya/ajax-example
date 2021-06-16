@@ -137,7 +137,3 @@ Once you've got all the dependencies installed, run `node server.js` or `npm sta
 
 All front-end code (HTML, CSS, and client side JS / jQuery) is placed in the `public` folder.
 
-
-### References
-
-This example is extended from [Start Bootstrap - Clean Blog](http://startbootstrap.com/template-overviews/clean-blog).
